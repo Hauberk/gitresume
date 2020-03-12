@@ -1,0 +1,43 @@
+.top
+{
+    width: 100%;
+    background-color: tomato;
+    color:whitesmoke;
+    float: left;
+    overflow: hidden;
+}
+.nav
+{
+float: right;    
+}
+.top ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.top ul li a{
+    padding: 1em;
+    &:hover{
+        background: yellowgreen;
+    }
+}
+.top ul
+{
+ list-style-type: none;
+ display: flex;
+}
+.routerContainer
+{
+    width: 100%;
+    color: black;
+    background-color: whitesmoke;
+    float: left;
+    overflow: hidden;
+    padding: auto;
+}
+.myFooter
+{
+    width: 100%;
+    float: left;
+    overflow: hidden;
+    background: tomato;
+}

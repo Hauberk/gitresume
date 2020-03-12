@@ -1,0 +1,65 @@
+.specificname
+{
+    text-align: left;
+    width: 79%;
+    padding-left: 1%;
+    float: left;
+    overflow: hidden;
+
+}
+.shortdesc
+{
+    text-align: right;
+    width: 19%;
+    padding-right: 1%;
+    float: left;
+    line-height: 0em;
+}
+.shortdesc p
+{
+    
+    font-weight: bold;
+}
+.introheader
+{
+    width: 100%;
+    
+}
+.main_info
+{
+    width: 96%;
+    overflow: hidden;
+    float:left;
+    margin: 1%;
+    
+    background: gainsboro;
+}
+.experience
+{
+    width: 65%;
+    overflow: hidden;
+    float: left;
+    line-height: 1em;
+    border: solid 1% grey;
+    padding-left:2%;
+    padding-right:2%; 
+}
+.skills
+{
+    width: 30%;
+    overflow: hidden;
+    float: left; 
+    
+    
+}
+.experience h6
+{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+h3
+{
+    color:#1f78cb;
+}
